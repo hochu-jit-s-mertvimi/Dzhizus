@@ -1,0 +1,403 @@
+section{
+	width: 1500px; 
+	height: 8790px; 
+	border: 2px dashed white; 
+	margin: auto;
+	background: linear-gradient(black, blueviolet, violet, blueviolet, black) 
+}
+.menu{
+	height: 80px;
+	width: 1500px;
+	border: 1px dotted antiquewhite;
+	background-color: black;
+	position: fixed;
+	top: 0;
+}
+ul{
+	color: white;
+	list-style-type: none;
+}
+li{
+	display: inline-block;
+	margin-left: 50px;
+}
+li:hover{
+	color: skyblue;
+	font-size: 20px;
+}
+i{
+	margin-left: 20px;
+	color: red;
+}
+.menu1{
+	display: inline-block;
+	width: 760px;
+	height: 80px;
+}
+.menu2{
+	display: inline-block;
+	width: 700px;
+	height: 80px;
+}
+.header{
+	font-size: 30px;
+	color: white;
+	margin-left: 70px;
+	margin-bottom: 5px;
+}
+.first{
+	height: 720px;
+	width: 1500px;
+	display: block;
+}
+.f1{
+	width: 650px;
+	height: 650px;
+	margin-top: 100px;
+	margin-left: 100px;
+	float: left;
+}
+.rock{
+	box-shadow: 15px 15px 25px white;
+}
+.f2{
+	width: 580px;
+	height: 650px;
+	margin-left: 50px;
+	margin-top: 100px;
+	margin-right: 100px;
+	float: right;
+	font-size: 24px;
+	color: lightgrey;
+	line-height: 30px;
+	font-style: italic;
+	text-shadow: 5px 5px 8px grey;
+}
+.f22{
+	text-align: center;
+}
+.rockers{
+	font-size: 30px;
+	color: white;
+}
+.news{
+	width: 800px;
+	height: 500px;
+	border: 1px dashed white;
+	margin: auto;
+	display: block;
+	box-shadow: 5px 5px 10px lightgrey;
+}
+.newsphoto2{
+	width: 800px;
+	height: 400px;
+}
+.newsinfo{
+	color: white;
+	font-size: 40px;
+	text-shadow: 5px 5px 20px white;
+	text-align: center;
+}
+.StoryOfLove{
+	color: white;
+	text-shadow: 5px 5px 20px lightgrey;
+	font-size: 22px;
+}
+.StoryOfLove:hover{
+	color: darkred;
+}
+.storyoflove{
+	text-align: center;
+	font-size: 18px;
+	text-shadow: 5px 5px 8px grey;
+	color: lightgrey;
+}
+.news1{
+	height: 600px;
+	width: 1200px;
+	border: 2px dotted lightgrey;
+	margin: auto;
+}
+.n1{
+	width: 1198px;
+	height: 198px;
+	border: 1px solid white;
+}
+.part1{
+	height: 200px;
+	width: 200px;
+	border-right: 5px double white;
+	float: left;
+}
+.part2{
+	height: 196px;
+	width: 990px;
+	float: right;
+}
+.m{
+	font-size: 24px;
+	text-align: center;
+	color: darkred;
+}
+.mIN{
+	font-size: 18px;
+	text-align: center;
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+}
+.dzhizus{
+	width: 1200px;
+	height: 600px;
+	/*border: 1px dotted white;*/
+	margin: auto;
+}
+.ava1{
+	width: 200px;
+	height: 200px;
+	float: left;	
+}
+.ava2{
+	width: 996px;
+	height: 200px;
+	float: right;
+}
+.spotifay{
+	width: 1200px;
+	height: 200px;
+	display: inline-block;
+}
+.nik{
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 50px;
+	margin-left: 20px;
+}
+#number{
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 30px;
+	margin-left: 20px;
+	display: inline;
+}
+.number1{
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 24px;
+	margin-left: 10px;
+	display: inline;
+}
+.zus1{
+	width: 600px;
+	height: 400px;
+	float: left;
+}
+.top{
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 35px;
+	margin-left: 20px;
+}
+.track{
+	width: 500px;
+	height: 50px;}
+.track1{
+	width: 100px;
+	float: left;
+}
+.track2{
+	width: 400px;
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin-top: 15px;
+	font-size: 18px;
+	float: right;
+}
+.track:hover{
+	border: 1px dashed antiquewhite;
+}
+.zus2{
+	width: 600px;
+	height: 400px; 
+	float: right;	
+}
+.bio{
+	width: 1200px;
+	height: 1750px;
+	margin: auto;
+	border: 1px dashed antiquewhite;
+	box-shadow: inset 15px 15px 100px violet;	
+}
+.bio1{
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 35px;
+	text-align: center;
+}
+.bio2{
+	width: 1100px;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 22px;
+	margin: auto;
+}
+.disc{
+	width: 1200px;
+	height: 3600px;
+	/*border: 1px dotted antiquewhite;*/
+	margin: auto;
+}
+.disc1{
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 35px;
+	margin-left: 30px;	
+}
+.revival{
+	width: 1200px;
+	height: 450px;
+}
+.revival1{
+	width: 500px;
+	height: 450px;
+	float: left;	
+}
+.revival2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 20px;
+}
+.teensoul1{
+	width: 500px;
+	height: 450px;
+	float: left;
+}
+.teensoul2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 30px;
+}
+.jesus1{
+	width: 500px;
+	height: 450px;
+	float: left;
+}
+.jesus2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 40px;
+}
+.JESUS1{
+	width: 500px;
+	height: 450px;
+	float: left;
+}
+.JESUS2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 25px;
+}
+.PNZsVNS3{
+	color: white;
+	text-shadow: 5px 5px 8px lightgrey;
+	font-size: 25px;
+	margin-left: 30px;
+}
+.PNZsVNS1{
+	width: 500px;
+	height: 450px;
+	float: left;
+}
+.PNZsVNS2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 22px;
+}
+.NVNsES1{
+	width: 500px;
+	height: 450px;
+	float: left;
+}
+.NVNsES2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 25px;
+}
+.NNE1{
+	width: 500px;
+	height: 450px;
+	float: left;
+}
+.NNE2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 22px;
+}
+.RaW1{
+	width: 500px;
+	height: 450px;
+	float: left;
+}
+.RaW2{
+	width: 698px;
+	height: 450px;
+	float: right;
+	color: antiquewhite;
+	text-shadow: 5px 5px 8px lightgrey;
+	margin: auto;
+	font-size: 22px;
+}
+.footer{
+	width: 1498px;
+	height: 304px;
+	border: 1px dotted antiquewhite;
+	background-color: black;
+}
+.footer1{
+	width: 300px;
+	height: 303px;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	float: left;
+	border: 1px dotted antiquewhite;
+	
+}
+.footer2{
+	width: 300px;
+	height: 303px;
+	color: white;
+	display: block;
+	font-size: 24px;
+	text-align: center;
+	float: right;	
+	border: 1px dotted antiquewhite;
+}
